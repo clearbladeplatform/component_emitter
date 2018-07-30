@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,component_emitter",
+    "logging_enabled": "false",
+    "name": "component_emitterSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "component_emitterSmokeTest.js"
+}
